@@ -123,7 +123,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
+		<string>Macintosh HD</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Secure</key>
@@ -191,7 +191,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>bluemac</string>
+		<string>material</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
